@@ -1,7 +1,7 @@
 ![Java CI](https://github.com/kwin/cppcheclipse/workflows/Java%20CI/badge.svg)
 
 **IMPORTANT:**
-This is the original cppcheclipse repository. It will not be actively developed anymore.
+This is the original cppcheclipse repository. It is not actively maintained in this repository anymore.
 Latest cppcheclipse source code is available [here](https://github.com/cppchecksolutions/cppcheclipse). Please report issues and provide pull requests in that repository.
 
 cppcheclipse is an Eclipse plugin which integrates [cppcheck](http://sourceforge.net/projects/cppcheck/) with the [CDT project](https://eclipse.org/cdt/). You can run/configure cppcheck from the Eclipse UI.
