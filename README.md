@@ -2,7 +2,7 @@
 
 **IMPORTANT:**
 This is the original cppcheclipse repository. It is not actively maintained in this repository anymore.
-Latest cppcheclipse source code is available [here](https://github.com/cppchecksolutions/cppcheclipse). Please report issues and provide pull requests in that repository.
+You now find the cppcheclipse source code [here](https://github.com/cppchecksolutions/cppcheclipse). Please report issues and provide pull requests in that repository instead.
 
 cppcheclipse is an Eclipse plugin which integrates [cppcheck](http://sourceforge.net/projects/cppcheck/) with the [CDT project](https://eclipse.org/cdt/). You can run/configure cppcheck from the Eclipse UI.
 
